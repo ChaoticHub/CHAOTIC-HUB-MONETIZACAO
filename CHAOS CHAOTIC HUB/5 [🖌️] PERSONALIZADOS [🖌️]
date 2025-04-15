@@ -4,7 +4,7 @@ CorDisplay = "#FF9999"
 CorNome = "#FF9999"
 ImagemDeFundo = "1234567"
 ImagemDaTag = "1234567"
-ImagemDaParticula = "1234567"
+ImagemParticula = "1234567"
 Texto = "Hello"
 
 Nome = "Nome2"
