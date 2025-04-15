@@ -1,2 +1,9 @@
-Nome-RGBCorPrincipal-HaxDoNomeDeExibicao-HaxDo@Nome-IdimagemDeFundo-IdImagemDaTag-TextoDescricao-IdImagemParticula
-Bacon-0:0:0-#FF9999-#FF9999-1234567-1234567-Descricao blabla-1234567
+Bacon = {
+    CorPrincipal = "0:0:0",
+    CorDisplay = "#FF9999",
+    CorNome = "#FF9999",
+    ImagemDeFundo = "1234567",
+    ImagemDaTag = "1234567",
+    Texto = "Hello",
+    ImagemParticula = "1234567"
+}
