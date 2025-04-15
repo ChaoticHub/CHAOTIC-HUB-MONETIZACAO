@@ -1,9 +1,17 @@
-Bacon = {
-    CorPrincipal = "0:0:0",
-    CorDisplay = "#FF9999",
-    CorNome = "#FF9999",
-    ImagemDeFundo = "1234567",
-    ImagemDaTag = "1234567",
-    Texto = "Hello",
-    ImagemParticula = "1234567"
-}
+Nome = "Builderman"
+CorPrincipal = "0:0:0"
+CorDisplay = "#FF9999"
+CorNome = "#FF9999"
+ImagemDeFundo = "1234567"
+ImagemDaTag = "1234567"
+Texto = "Hello"
+ImagemParticula = "1234567"
+
+Nome = "ROBLOX"
+CorPrincipal = "0:0:0"
+CorDisplay = "#FF9999"
+CorNome = "#FF9999"
+ImagemDeFundo = "1234567"
+ImagemDaTag = "1234567"
+Texto = "Hello"
+ImagemParticula = "1234567"
