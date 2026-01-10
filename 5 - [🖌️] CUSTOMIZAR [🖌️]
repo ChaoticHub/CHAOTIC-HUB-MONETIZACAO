@@ -34,14 +34,14 @@ ImagemDaTag = "110133880637672"
 ImagemParticula = "76126989528002"
 Texto = "Elite-tier player in CH, ranked above Premium users"
 
-Nome = "Nome3"
-CorPrincipal = "0:0:0"
-CorDisplay = "#FFFFFF"
-CorNome = "#FFFFFF"
-ImagemDeFundo = "123456789"
-ImagemDaTag = "123456789"
-ImagemParticula = "123456789"
-Texto = "Custom Text: texto aqui"
+Name = "devilgotblackheart"
+MainColor = "2:5:5" -- RGB color (R:G:B)
+DisplayColor = "#FFFFFF" -- HEX color
+NameColor = "#FFFFFF" -- HEX color
+BackgroundImage = "10590477450" -- Roblox image ID
+TagImage = "10180536602" -- Roblox tag image ID
+ParticleImage = "8425069728" -- Roblox particle ID
+Text = "Hello again : text here
 
 Nome = "Nome4"
 CorPrincipal = "0:0:0"
